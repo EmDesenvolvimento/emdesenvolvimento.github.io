@@ -1,18 +1,18 @@
 ---
 layout: session
 category: session
-permalink: /sessions/why-cloud-hosting-is-important/
+permalink: /sessions/session-teste/
 published: true
 
-title: Why Cloud Hosting is Important
-summary: The importance of hosting your Drupal site on the cloud!
-presenters: Timothy Lee
-track: Frontend
-difficulty: Intermediate
+title: Session Teste
+summary: Session teste descrição.
+#presenters: Timothy Lee
+#track: Frontend
+#difficulty: Intermediate
 
-day: TBD
-start: TBD
-room: TBD
+start: 21:30pm
+end: 22:30pm
+#room: TBD
 ---
 
 Whether you already have a website or are planning on starting one, I’m sure by now you’ve heard the term “cloud hosting” buzzing around. Cloud hosting is an effective technology, but how exactly does it work?
