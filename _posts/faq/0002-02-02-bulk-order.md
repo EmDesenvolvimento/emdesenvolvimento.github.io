@@ -1,9 +1,9 @@
 ---
 layout: col-2
 category: faq
-anchor: bulk-registration
+anchor: O-que-é-OSINT-Village
 
-title: I need to register several people at once. How do I buy in bulk?
+title: Finalmente, o que é OSINT Village ?
 ---
 
-Eventbrite allows you to buy as many registrations as you need. When you register, the system will ask you for each attendee's information (name, email, etc.). This information is important because it will help us find your tickets on the day of the event.
+A OSINT Village tem como objetivo levar a comunidade palestras, oficinas, capture the flag e tudo envolvendo Open Source Intelligence. Falamos um pouco da história, como coletar informações, a importância desse tipo de busca, como pode ajudar pessoas e empresas. Tudo isso gratuitamente para a comunidade, todos são bem vindos para aprender e compartilhar o conhecimento.

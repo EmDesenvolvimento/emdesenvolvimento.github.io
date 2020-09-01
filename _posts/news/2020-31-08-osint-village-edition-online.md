@@ -6,7 +6,7 @@ published: true
 
 title: Iniciando OSINT Village edition online 2020
 author: JC GreenMind
-summary: Videos are now available on each session page. Browse the schedule and watch all the sessions you couldn't catch.
+summary: Estamos dando inicio a mais uma edição da OSINT Village em uma edição online.
 ---
 
 Estamos iniciando mais uma edição da OSINT Village e dessa vez o evento vai ser online.
